@@ -1,2 +1,2 @@
 # PythonProjects
-My Python Projects!
+Hello! This is where I will be storing all of my Python Projects (individual Projects)!
